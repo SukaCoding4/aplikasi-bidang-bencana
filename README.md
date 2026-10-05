@@ -144,17 +144,6 @@ Project ini dibuat sebagai bagian dari pengembangan aplikasi berbasis web untuk 
 
 Fitur dan sistem masih dalam tahap pengembangan dan pengujian.
 
-## 📄 Dokumentasi
-
-Dokumentasi perancangan sistem meliputi:
-
-- Use Case Diagram
-- Activity Diagram
-- Class Diagram
-- ERD
-- Database Design
-- UI Design
-
 ## 📜 License
 
 Project ini dibuat untuk keperluan pembelajaran dan pengembangan aplikasi.
